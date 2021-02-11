@@ -1,0 +1,1 @@
+Hangman game created using vanilla HTML, CSS and JavaScript ; following Traversy Media tutorial
